@@ -18,5 +18,7 @@ The persuasion techniques analyzed in this paper draws upon the Elaboration Like
 This study builds upon the earlier work done in the field of computational communication to understand the types of persuasion techniques used and how computer programs are ability to mimic human negotiations. The datasets used for analysis in this paper are from Chen and Yang’s “Weakly-Supervised Hierarchical Models for Predicting Persuasion Strategies” and “Decoupling Strategy and Generation in Negotiation Dialogues” by He. H et al. The datasets would be further elaborated under section 4.Results. 
 
 This paper aims to investigate the techniques employed by actors in buyer-seller negotiations (Craigslist Bargain dataset from He. H et al). The results will be compared to the demographic of persuasion techniques used in good faith textual requests (Reddit dataset taken from Chen and Yang). Persuasions in the contexts of good faith textual requests leverage the peripheral messaging route more as compared to buyer-seller negotiations that heavily lean on the central messaging route. Given the differences in results, the discussion will center around factors that may account for the differences in the demographic of persuasion techniques employed by actors from both datasets. 
-![image](https://user-images.githubusercontent.com/108040730/202607586-98073711-1fed-4a6f-9e97-ac141b18ef1d.png)
+
+
+You may contact me at calebchoy98@gmail.com if you have any enquiries about my work
 
